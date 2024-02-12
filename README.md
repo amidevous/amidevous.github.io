@@ -1,3 +1,3 @@
-# debgen.github.io
+# http://amidevous.github.io/
 
 this project is updated from fork https://github.com/rwarasaurus/debgen.
