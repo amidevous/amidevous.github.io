@@ -58,9 +58,9 @@ En installant l'extension vStream depuis son dépôt, cela va permettre à Kodi 
 vStream propose des liens de streaming venant de plusieurs sites de streamig.
 L'accès à certains sites est bloqué par les fournisseurs internet.
 
-Pour contourner ce blocage, il suffit d'installer l'extension "DNSPython" en installant le ZIP "script.module.dnspython-1.12.1.zip à l'étape précédente.<br>
+Pour contourner ce blocage, il suffit d'installer l'extension "DNSPython" en installant le ZIP "script.module.dnspython-1.12.1.zip", à l'étape précédente.<br>
 Si des blocages persistent ou que vous voulez débloquer les accès aux sites internet en dehors de vStream, vous devez modifier les paramètres DNS de votre réseau.
-Pour cela, vous pouvez suivre le paragraphe "Changes tes DNS !" de ce guide : https://lesalkodiques.wiki/categorie/changer-ses-dns/
+Pour cela, vous pouvez suivre le paragraphe "Changes tes DNS !" de ce guide : [les alKODIques - change tes DNS](https://lesalkodiques.wiki/categorie/changer-ses-dns/)
 
 
 Si vous utilisez déjà un VPN, celui-ci contourne déjà le blocage (avec ses propres paramètres DNS).<br>
@@ -121,7 +121,7 @@ La lecture de ces liens est en streaming, ce n'est pas du téléchargement, la l
 Contrairement aux sites internet qui mettent en place des protections, changent d'adresse, ou ferment définitivement, les collections privées sont toujours accessibles, et les liens sont triés et toujours disponibles.<br>
 La communauté "Les alKODIQues" propose la plus grande collection privée de films et de séries. Dans toutes les qualités (HD, FullHD et 4K).<br>
 
-Vous pouvez suivre leur guide pour configurer dans vStream l'accès à leur catalogue : https://lesalkodiques.com/Guides/pack-des-alkodiques/
+Vous pouvez suivre leur guide pour configurer dans vStream l'accès à leur catalogue : [les alKODIques - le catalogue](https://lesalkodiques.com/Guides/pack-des-alkodiques/)
 
 Comme le catalogue est privé, il faut s'inscrire sur le site pour pouvoir suivre le guide.
 
