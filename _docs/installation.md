@@ -52,7 +52,23 @@ En installant l'extension vStream depuis son dépôt, cela va permettre à Kodi 
      ![images](https://github.com/Kodi-vStream/venom-xbmc-doc/raw/master/img/install_repo7.jpg)
 
 
-### 2. Installer l'extension vStream
+### 3. Installer DNSPython
+---
+
+vStream propose des liens de streaming venant de plusieurs sites de streamig.
+L'accès à certains sites est bloqué par les fournisseurs internet.
+
+Pour contourner ce blocage, il suffit d'installer l'extension "DNSPython" en installant le ZIP "script.module.dnspython-1.12.1.zip à l'étape précédente.<br>
+Si des blocages persistent ou que vous voulez débloquer les accès aux sites internet en dehors de vStream, vous devez modifier les paramètres DNS de votre réseau.
+Pour cela, vous pouvez suivre le paragraphe "Changes tes DNS !" de ce guide : https://lesalkodiques.wiki/categorie/changer-ses-dns/
+
+
+Si vous utilisez déjà un VPN, celui-ci contourne déjà le blocage (avec ses propres paramètres DNS).<br>
+Si vous n'avez pas de VPN, n'en prenez pas, ce n'est pas utile.<br>
+Modifier ses paramètres DNS ou utiliser DNSPython est suffisant.
+
+
+### 4. Installer l'extension vStream
 ---
 
 Une fois le dépôt installé, il ne reste plus qu'à installer vStream depuis ce dépôt.
@@ -84,4 +100,37 @@ Une fois le dépôt installé, il ne reste plus qu'à installer vStream depuis c
 - Sélectionner _Installer_
 
 ![images](https://github.com/Kodi-vStream/venom-xbmc-doc/raw/master/img/install_7.jpg)
+
+
+
+### 5. vStream Premium 4K
+---
+
+Une fois installé, vStream se retrouve sur la page d'acceuil de Kodi, dans la section "Extensions".<br>
+vStream permet de proposer des liens gratuits de films et de séries qu'il retrouve sur des sites de streaming.<br>
+Les sites sont pré-enregistrés, il n'est pas utile de connaitre leur adresse.<br>
+vStream parcourt les sites sans qu'on ai besoin d'y être inscrit.<br>
+vStream n'affiche pas les publicités des sites.<br>
+
+vStream peut également proposer des liens de films et de séries qui ne sont pas disponibles sur les sites internet gratuits, mais provenant de collections privées.<br>
+Certaines collections proposent des liens en 4K, HDR+, Dolby Vision, audio Atmos, etc.
+
+Ces liens sont en REMUX, donc sans aucune compression, sans aucune perte de qualité.<br>
+La lecture de ces liens est en streaming, ce n'est pas du téléchargement, la lecture commence dès la sélection du lien. Il n'est pas utile d'avoir de la place sur un disque dur.<br>
+
+Contrairement aux sites internet qui mettent en place des protections, changent d'adresse, ou ferment définitivement, les collections privées sont toujours accessibles, et les liens sont triés et toujours disponibles.<br>
+La communauté "Les alKODIQues" propose la plus grande collection privée de films et de séries. Dans toutes les qualités (HD, FullHD et 4K).<br>
+
+Vous pouvez suivre leur guide pour configurer dans vStream l'accès à leur catalogue : https://lesalkodiques.com/Guides/pack-des-alkodiques/
+
+Comme le catalogue est privé, il faut s'inscrire sur le site pour pouvoir suivre le guide.
+
+
+
+
+
+
+
+
+
 
